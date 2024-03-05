@@ -1,5 +1,4 @@
-# Example .allstar Quickstart Repository
+# OpenSSF Allstar configuration for Ericsson organization
 
-This repository can be forked into your organization as `.allstar` to quickly
-enable issue creation for all Allstar policies on all repositories with the
-default settings.
+This repository contains the [OpenSSF Allstar](https://github.com/ossf/allstar) configuration for the Ericsson GitHub organization.
+

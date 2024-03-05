@@ -1,2 +1,5 @@
 optConfig:
-  optOutStrategy: true
+  optOutStrategy: false
+  optInRepos:
+    - allstar-test
+  disableRepoOverride: false
