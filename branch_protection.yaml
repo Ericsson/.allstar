@@ -1,3 +1,13 @@
 optConfig:
   optOutStrategy: true
 action: issue
+enforceDefault: true
+requireApproval: true
+approvalCount: 1
+requireCodeOwnerReviews: false
+dismissStale: false
+blockForce: true
+requireUpToDateBranch: false
+requireStatusChecks: false
+enforceOnAdmins: false
+requireSignedCommits
