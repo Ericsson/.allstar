@@ -8,6 +8,5 @@ requireCodeOwnerReviews: false
 dismissStale: false
 blockForce: true
 requireUpToDateBranch: false
-requireStatusChecks: false
 enforceOnAdmins: false
 requireSignedCommits: false
